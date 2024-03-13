@@ -1,0 +1,24 @@
+{
+  "name": "glass-icons",
+  "version": "1.0.0",
+  "description": "A collection of CSS icons for various purposes.",
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rakeshkanna-rk/Glass-Icons"
+  },
+  "keywords": [
+    "css",
+    "icons",
+    "library",
+    "glass-icons"
+  ],
+  "author": "Rakesh Kanna",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rakeshkanna-rk/Glass-Icons/issues"
+  },
+  "homepage": "https://github.com/rakeshkanna-rk/Glass-Icons",
+  "dependencies": {},
+  "devDependencies": {}
+}

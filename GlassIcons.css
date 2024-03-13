@@ -1,0 +1,167 @@
+/*Varibles*/
+.icon {
+    background-size: cover;
+    background-position: center;
+    display: inline-block;
+}
+
+.Bomb-rk { /*Bomb Icon*/
+    background-image: url('PNGs/Bomb.png');
+}
+
+
+/*---Weather Icons---*/
+.SunnyCloud-rk {
+    background-image: url('PNGs/SunnyCloud.png');
+}
+
+.RainbowCloud-rk {
+    background-image: url('PNGs/RainbowCloud.png');
+}
+
+.SnowCloud-rk {
+    background-image: url('PNGs/SnowCloud.png');
+}
+
+.RainnyCloud-rk {
+    background-image: url('PNGs/RainnyCloud.png');
+}
+
+.ThunderCloud-rk {
+    background-image: url('PNGs/ThunderCloud.png');
+}
+/*---Weather Icons End---*/
+
+
+/*---Basic App Icons---*/
+.Calendar-rk { 
+    background-image: url('PNGs/Calendar.png');
+}
+
+.Video-rk { 
+    background-image: url('PNGs/Video.png');
+}
+
+.Camera-rk { 
+    background-image: url('PNGs/Camera.png');
+}
+
+.Contact-rk { 
+    background-image: url('PNGs/Contact.png');
+}
+
+.Gallery-rk { 
+    background-image: url('PNGs/Gallery.png');
+}
+
+.Folder-rk { 
+    background-image: url('PNGs/Folder.png');
+}
+
+.Heart-rk { 
+    background-image: url('PNGs/Heart.png');
+}
+
+.Notes-rk { 
+    background-image: url('PNGs/Notes.png');
+}
+
+.Phone-rk { 
+    background-image: url('PNGs/Phone.png');
+}
+
+.Video-rk { 
+    background-image: url('PNGs/Video.png');
+}
+
+.Save-rk { 
+    background-image: url('PNGs/Save.png');
+}
+
+.Message-rk { 
+    background-image: url('PNGs/Message.png');
+}
+
+.zipfile-rk { 
+    background-image: url('PNGs/zipfile.png');
+}
+/*---Basic App Icons End---*/
+
+/*Social Media Icons*/
+
+.Instagram-rk {
+    background-image: url('PNGs/Dark-Instagram.png');
+}
+
+.Facebook-rk {
+    background-image: url('PNGs/Dark-Facebook.png');
+}
+
+.Linkedin-rk {
+    background-image: url('PNGs/Dark-Linkedin.png');
+}
+
+.YouTube-rk {
+    background-image: url('PNGs/Dark-Youtube.png');
+}
+
+.GitHub-rk {
+    background-image: url('PNGs/Dark-Github.png');
+}
+
+.Pinterest-rk {
+    background-image: url('PNGs/Dark-Pinterest.png');
+}
+
+.Instagram-rk {
+    background-image: url('PNGs/Dark-Instagram.png');
+}
+
+.Snapchat-rk {
+    background-image: url('PNGs/Dark-Snapchat.png');
+}
+
+.Whatsapp-rk {
+    background-image: url('PNGs/Dark-Whatsapp.png');
+}
+
+.Telegram-rk {
+    background-image: url('PNGs/Dark-Telegram.png');
+}
+
+.Threads-rk {
+    background-image: url('PNGs/Dark-Threads.png');
+}
+
+.Medium-rk {
+    background-image: url('PNGs/Dark-Medium.png');
+}
+
+.--500px-rk {
+    background-image: url('PNGs/Dark-500px.png');
+}
+
+.Behance-rk {
+    background-image: url('PNGs/Dark-Behance.png');
+}
+
+.Figma-rk {
+    background-image: url('PNGs/Dark-Figma.png');
+}
+
+.Adobe-rk{
+    background-image: url('PNGs/Dark-Adobe.png');
+}
+
+.AfterEffects-rk {
+    background-image: url('PNGs/Dark-Aftereffects.png');
+}
+
+.--3M-rk {
+    background-image: url('PNGs/Dark-3M.png');
+}
+
+.Notion-rk {
+    background-image: url('PNGs/Dark-Notion.png');
+}
+/*Social Media Icons End*/
