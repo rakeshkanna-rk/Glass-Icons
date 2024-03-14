@@ -14,7 +14,7 @@ To use Glass Icons in your project, simply include the CSS file in your HTML doc
 |------------------------|---------------------------------------|
 | .Bomb-rk               | ![Bomb Icon](PNGs/Bomb.png)           |
 | .SunnyCloud-rk         | ![Sunny Cloud Icon](PNGs/SunnyCloud.png)   |
-| .RainbowCloud-rk       | ![Rainbow Cloud Icon](PNGs/RainbowCloud.png) |
+| .RainbowCloud-rk       | ![Rainbow Cloud Icon](PNGs/RainBowCloud.png) |
 | .SnowCloud-rk          | ![Snow Cloud Icon](PNGs/SnowCloud.png) |
 | .RainnyCloud-rk        | ![Rainy Cloud Icon](PNGs/RainnyCloud.png) |
 | .ThunderCloud-rk       | ![Thunder Cloud Icon](PNGs/ThunderCloud.png) |
@@ -52,7 +52,6 @@ To use Glass Icons in your project, simply include the CSS file in your HTML doc
   
 ㅤㅤㅤ
   
-ㅤㅤ
 ## [Check Usage](Usage.html)
 
 ```html
