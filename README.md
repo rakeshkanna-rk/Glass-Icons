@@ -50,7 +50,10 @@ To use Glass Icons in your project, simply include the CSS file in your HTML doc
 | .Notion-rk             | ![Notion Icon](PNGs/Dark-Notion.png)   |
 -----------------------------------------
   
-[## Check Usage](Usage.html)
+ㅤㅤㅤ
+  
+ㅤㅤ
+## [Check Usage](Usage.html)
 
 ```html
 <i class="icon Class Name"></i>
@@ -80,7 +83,7 @@ Thank you for considering contributing to Glass Icons! Contributions are welcome
 If you encounter any bugs, have suggestions for improvements, or would like to request new features, please [open an issue](https://github.com/rakeshkanna-rk/Glass-Icons/issues). Provide as much detail as possible to help us understand and address your concern.
 
 ## Author  
-[### Rakesh Kanna](https://github.com/rakeshkanna-rk)
+### [Rakesh Kanna](https://github.com/rakeshkanna-rk)
   
 ## License
 This project is licensed under the [MIT License](LICENSE)
