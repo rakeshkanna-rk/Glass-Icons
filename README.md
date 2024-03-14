@@ -4,56 +4,60 @@ Glass Icons is a collection of CSS icons designed for various purposes. These ic
 
 ## Usage
 
-To use Glass Icons in your project, simply include the CSS file in your HTML document:
-
+### Link the tag below in your html file to access **Glass Icons**
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rakeshkanna-rk/Glass-Icons/index.css">
 ```
 
-| Class Name             | Image URL                             |
-|------------------------|---------------------------------------|
-| .Bomb-rk               | ![Bomb Icon](PNGs/Bomb.png)           |
-| .SunnyCloud-rk         | ![Sunny Cloud Icon](PNGs/SunnyCloud.png)   |
-| .RainbowCloud-rk       | ![Rainbow Cloud Icon](PNGs/RainBowCloud.png) |
-| .SnowCloud-rk          | ![Snow Cloud Icon](PNGs/SnowCloud.png) |
-| .RainnyCloud-rk        | ![Rainy Cloud Icon](PNGs/RainnyCloud.png) |
-| .ThunderCloud-rk       | ![Thunder Cloud Icon](PNGs/ThunderCloud.png) |
-| .Calendar-rk           | ![Calendar Icon](PNGs/Calendar.png)   |
-| .Video-rk              | ![Video Icon](PNGs/Video.png)         |
-| .Camera-rk             | ![Camera Icon](PNGs/Camera.png)       |
-| .Contact-rk            | ![Contact Icon](PNGs/Contact.png)     |
-| .Gallery-rk            | ![Gallery Icon](PNGs/Gallery.png)     |
-| .Folder-rk             | ![Folder Icon](PNGs/Folder.png)       |
-| .Heart-rk              | ![Heart Icon](PNGs/Heart.png)         |
-| .Notes-rk              | ![Notes Icon](PNGs/Notes.png)         |
-| .Phone-rk              | ![Phone Icon](PNGs/Phone.png)         |
-| .Save-rk               | ![Save Icon](PNGs/Save.png)           |
-| .Message-rk            | ![Message Icon](PNGs/Message.png)     |
-| .zipfile-rk            | ![Zipfile Icon](PNGs/zipfile.png)     |
-| .Instagram-rk          | ![Instagram Icon](PNGs/Dark-Instagram.png) |
-| .Facebook-rk           | ![Facebook Icon](PNGs/Dark-Facebook.png) |
-| .Linkedin-rk           | ![Linkedin Icon](PNGs/Dark-Linkedin.png) |
-| .YouTube-rk            | ![YouTube Icon](PNGs/Dark-Youtube.png) |
-| .GitHub-rk             | ![GitHub Icon](PNGs/Dark-Github.png)  |
-| .Pinterest-rk          | ![Pinterest Icon](PNGs/Dark-Pinterest.png) |
-| .Snapchat-rk           | ![Snapchat Icon](PNGs/Dark-Snapchat.png) |
-| .Whatsapp-rk           | ![Whatsapp Icon](PNGs/Dark-Whatsapp.png) |
-| .Telegram-rk           | ![Telegram Icon](PNGs/Dark-Telegram.png) |
-| .Threads-rk            | ![Threads Icon](PNGs/Dark-Threads.png) |
-| .Medium-rk             | ![Medium Icon](PNGs/Dark-Medium.png)   |
-| .--500px-rk            | ![500px Icon](PNGs/Dark-500px.png)    |
-| .Behance-rk            | ![Behance Icon](PNGs/Dark-Behance.png) |
-| .Figma-rk              | ![Figma Icon](PNGs/Dark-Figma.png)     |
-| .Adobe-rk              | ![Adobe Icon](PNGs/Dark-Adobe.png)     |
-| .AfterEffects-rk       | ![AfterEffects Icon](PNGs/Dark-Aftereffects.png) |
-| .--3M-rk               | ![3M Icon](PNGs/Dark-3M.png)           |
-| .Notion-rk             | ![Notion Icon](PNGs/Dark-Notion.png)   |
+### Check the Class Name with respective icons.
+
+| S.No. | Class Name             | Image                             |
+|-------|------------------------|-----------------------------------|
+| 1     | .Bomb-rk               | <img src="PNGs/Bomb.png" width="150"> |
+| 2     | .SunnyCloud-rk         | <img src="PNGs/SunnyCloud.png" width="150"> |
+| 3     | .RainbowCloud-rk       | <img src="PNGs/RainBowCloud.png" width="150"> |
+| 4     | .SnowCloud-rk          | <img src="PNGs/SnowCloud.png" width="150"> |
+| 5     | .RainnyCloud-rk        | <img src="PNGs/RainnyCloud.png" width="150"> |
+| 6     | .ThunderCloud-rk       | <img src="PNGs/ThunderCloud.png" width="150"> |
+| 7     | .Calendar-rk           | <img src="PNGs/Calendar.png" width="150"> |
+| 8     | .Video-rk              | <img src="PNGs/Video.png" width="150"> |
+| 9     | .Camera-rk             | <img src="PNGs/Camera.png" width="150"> |
+| 10    | .Contact-rk            | <img src="PNGs/Contact.png" width="150"> |
+| 11    | .Gallery-rk            | <img src="PNGs/Gallery.png" width="150"> |
+| 12    | .Folder-rk             | <img src="PNGs/Folder.png" width="150"> |
+| 13    | .Heart-rk              | <img src="PNGs/Heart.png" width="150"> |
+| 14    | .Notes-rk              | <img src="PNGs/Notes.png" width="150"> |
+| 15    | .Phone-rk              | <img src="PNGs/Phone.png" width="150"> |
+| 16    | .Save-rk               | <img src="PNGs/Save.png" width="150"> |
+| 17    | .Message-rk            | <img src="PNGs/Message.png" width="150"> |
+| 18    | .zipfile-rk            | <img src="PNGs/zipfile.png" width="150"> |
+| 19    | .Instagram-rk          | <img src="PNGs/Dark-Instagram.png" width="150"> |
+| 20    | .Facebook-rk           | <img src="PNGs/Dark-Facebook.png" width="150"> |
+| 21    | .Linkedin-rk           | <img src="PNGs/Dark-Linkedin.png" width="150"> |
+| 22    | .YouTube-rk            | <img src="PNGs/Dark-Youtube.png" width="150"> |
+| 23    | .GitHub-rk             | <img src="PNGs/Dark-Github.png" width="150"> |
+| 24    | .Pinterest-rk          | <img src="PNGs/Dark-Pinterest.png" width="150"> |
+| 25    | .Snapchat-rk           | <img src="PNGs/Dark-Snapchat.png" width="150"> |
+| 26    | .Whatsapp-rk           | <img src="PNGs/Dark-Whatsapp.png" width="150"> |
+| 27    | .Telegram-rk           | <img src="PNGs/Dark-Telegram.png" width="150"> |
+| 28    | .Threads-rk            | <img src="PNGs/Dark-Threads.png" width="150"> |
+| 29    | .Medium-rk             | <img src="PNGs/Dark-Medium.png" width="150"> |
+| 30    | .--500px-rk            | <img src="PNGs/Dark-500px.png" width="150"> |
+| 31    | .Behance-rk            | <img src="PNGs/Dark-Behance.png" width="150"> |
+| 32    | .Figma-rk              | <img src="PNGs/Dark-Figma.png" width="150"> |
+| 33    | .Adobe-rk              | <img src="PNGs/Dark-Adobe.png" width="150"> |
+| 34    | .AfterEffects-rk       | <img src="PNGs/Dark-Aftereffects.png" width="150"> |
+| 35    | .--3M-rk               | <img src="PNGs/Dark-3M.png" width="150"> |
+| 36    | .Notion-rk             | <img src="PNGs/Dark-Notion.png" width="150"> |
+
+
 -----------------------------------------
   
 ㅤㅤㅤ
   
 ## [Check Usage](Usage.html)
 
+### Common Usage
 ```html
 <i class="icon Class Name"></i>
 ```
