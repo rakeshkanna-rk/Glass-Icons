@@ -6,7 +6,7 @@ Glass Icons is a collection of CSS icons designed for various purposes. These ic
 
 ### Link the tag below in your html file to access **Glass Icons**
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rakeshkanna-rk/Glass-Icons/index.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rakeshkanna-rk/Glass-Icons/GlassIcons.css">
 ```
 
 ### Check the Class Name with respective icons.
